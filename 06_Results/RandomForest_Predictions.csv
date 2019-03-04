@@ -1,0 +1,87 @@
+,HomeTeam,AwayTeam,Prdctd_Winner,Actual_Winner
+0,Man United,Leicester,Home,Home
+1,Liverpool,West Ham,Home,Home
+2,Arsenal,Man City,Away,Away
+3,West Ham,Bournemouth,Away,Away
+4,Everton,Southampton,Draw,Home
+5,Chelsea,Arsenal,Home,Home
+6,Crystal Palace,Liverpool,Away,Away
+7,Southampton,Leicester,Home,Away
+8,Bournemouth,Everton,Home,Draw
+9,Arsenal,West Ham,Home,Home
+10,Watford,Crystal Palace,Home,Home
+11,Man United,Tottenham,Home,Away
+12,Leicester,Liverpool,Away,Away
+13,Crystal Palace,Southampton,Home,Away
+14,Chelsea,Bournemouth,Home,Home
+15,Watford,Tottenham,Away,Home
+16,Tottenham,Liverpool,Home,Away
+17,Bournemouth,Leicester,Away,Home
+18,Watford,Man United,Away,Away
+19,Everton,West Ham,Home,Away
+20,Liverpool,Southampton,Home,Home
+21,West Ham,Chelsea,Away,Draw
+22,Arsenal,Everton,Home,Home
+23,West Ham,Man United,Away,Home
+24,Arsenal,Watford,Home,Home
+25,Chelsea,Liverpool,Home,Draw
+26,Bournemouth,Crystal Palace,Draw,Home
+27,Watford,Bournemouth,Home,Away
+28,Leicester,Everton,Home,Away
+29,Southampton,Chelsea,Away,Away
+30,Liverpool,Man City,Away,Draw
+31,Chelsea,Man United,Home,Draw
+32,West Ham,Tottenham,Away,Away
+33,Bournemouth,Southampton,Away,Draw
+34,Everton,Crystal Palace,Draw,Home
+35,Arsenal,Leicester,Home,Home
+36,Leicester,West Ham,Home,Draw
+37,Crystal Palace,Arsenal,Away,Draw
+38,Man United,Everton,Home,Home
+39,Tottenham,Man City,Away,Away
+40,Bournemouth,Man United,Away,Away
+41,Arsenal,Liverpool,Home,Draw
+42,Man City,Southampton,Home,Home
+43,Chelsea,Crystal Palace,Home,Home
+44,Southampton,Watford,Home,Draw
+45,Crystal Palace,Tottenham,Away,Away
+46,Chelsea,Everton,Home,Draw
+47,Man City,Man United,Home,Home
+48,West Ham,Man City,Away,Away
+49,Watford,Liverpool,Away,Away
+50,Man United,Crystal Palace,Home,Draw
+51,Tottenham,Chelsea,Away,Home
+52,Bournemouth,Arsenal,Away,Away
+53,Man City,Bournemouth,Home,Home
+54,Leicester,Watford,Home,Home
+55,Southampton,Man United,Away,Draw
+56,Arsenal,Tottenham,Home,Home
+57,Liverpool,Everton,Home,Home
+58,Watford,Man City,Away,Away
+59,Man United,Arsenal,Home,Draw
+60,Tottenham,Southampton,Home,Home
+61,Bournemouth,Liverpool,Away,Away
+62,West Ham,Crystal Palace,Away,Home
+63,Chelsea,Man City,Away,Home
+64,Leicester,Tottenham,Away,Away
+65,Everton,Watford,Draw,Draw
+66,Man City,Everton,Home,Home
+67,Crystal Palace,Leicester,Home,Home
+68,Southampton,Arsenal,Away,Home
+69,Liverpool,Man United,Home,Home
+70,West Ham,Watford,Draw,Away
+71,Man City,Crystal Palace,Home,Away
+72,Chelsea,Leicester,Home,Away
+73,Everton,Tottenham,Away,Away
+74,Tottenham,Bournemouth,Home,Home
+75,Leicester,Man City,Away,Home
+76,Watford,Chelsea,Away,Away
+77,Southampton,West Ham,Home,Away
+78,Liverpool,Arsenal,Home,Home
+79,Crystal Palace,Chelsea,Away,Away
+80,Southampton,Man City,Away,Away
+81,Man United,Bournemouth,Home,Home
+82,Everton,Leicester,Draw,Away
+83,Chelsea,Southampton,Home,Draw
+84,Bournemouth,Watford,Home,Draw
+85,Man City,Liverpool,Home,Home
